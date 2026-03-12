@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# logger.py
+game_state.jsonl
